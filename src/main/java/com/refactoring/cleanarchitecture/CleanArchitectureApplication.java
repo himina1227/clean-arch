@@ -1,13 +1,13 @@
-package com.refactoring.cleanarchtecture;
+package com.refactoring.cleanarchitecture;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CleanArchtectureApplication {
+public class CleanArchitectureApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CleanArchtectureApplication.class, args);
+        SpringApplication.run(CleanArchitectureApplication.class, args);
     }
 
 }

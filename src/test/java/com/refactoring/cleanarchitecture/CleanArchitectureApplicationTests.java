@@ -1,10 +1,10 @@
-package com.refactoring.cleanarchtecture;
+package com.refactoring.cleanarchitecture;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CleanArchtectureApplicationTests {
+class CleanArchitectureApplicationTests {
 
     @Test
     void contextLoads() {
