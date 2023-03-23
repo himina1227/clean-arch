@@ -1,5 +1,6 @@
-package com.refactoring.cleanarchitecture.account.adapter.out.persistence;
+package com.refactoring.cleanarchitecture.account.adapter.out.persistence.account;
 
+import com.refactoring.cleanarchitecture.account.adapter.out.persistence.activity.ActivityJpaEntity;
 import com.refactoring.cleanarchitecture.account.domain.Account;
 import com.refactoring.cleanarchitecture.account.domain.Account.AccountId;
 import com.refactoring.cleanarchitecture.account.domain.Activity;

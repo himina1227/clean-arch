@@ -1,4 +1,10 @@
 spring:
+  application:
+    name: clean-architecture
+  profiles:
+    active: local
+    include:
+      - jwt
   datasource:
     hikari: # https://jojoldu.tistory.com/296 hikari 관련된 설정
 #    url: jdbc:h2:mem:delivery
@@ -18,6 +24,7 @@ spring:
       hibernate:
         show_sql: true
         format_sql: true
+
 ---
 spring:
   config:

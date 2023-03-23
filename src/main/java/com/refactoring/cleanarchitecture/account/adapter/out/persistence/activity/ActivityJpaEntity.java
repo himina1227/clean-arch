@@ -1,4 +1,4 @@
-package com.refactoring.cleanarchitecture.account.adapter.out.persistence;
+package com.refactoring.cleanarchitecture.account.adapter.out.persistence.activity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
