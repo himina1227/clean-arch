@@ -7,7 +7,7 @@ import jakarta.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
-@Entity
+@Entity(name = "delivery")
 public class DeliveryJpaEntity {
 
     @Id
